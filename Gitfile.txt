@@ -1,0 +1,6 @@
+1. Copy the Repository URL
+Go to the GitHub repository page and copy the HTTPS or SSH URL.
+
+HTTPS: https://github.com/username/repo-name.git
+
+SSH: git@github.com:username/repo-name.git
